@@ -1,2 +1,2 @@
-#Dreamer's init.lua
+# Dreamer's init.lua
 My first neovim config setup!
